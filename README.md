@@ -16,8 +16,6 @@ You're still not being asked to write your own tests. We're simply aiming to und
 
 Remember, when we refer to RSpec or `rspec`, that is equivalent to running the `learn` or `learn test` command, which invokes the Learn test files in `spec`.
 
-You must have the `learn-co` gem installed. If you set up your environment through Learn and have used the `learn` command before (very likely if you've made it this far), you are totally fine. Run `learn` now to confirm. If you're having trouble or aren't sure, ask a question on Learn!
-
 # RSpec - Test Driven Development
 
 RSpec is a testing tool for the Ruby programming language. Born under the banner of Behavior-Driven Development, it is designed to make Test-Driven Development a productive and enjoyable experience. The `learn` gem wraps `rspec` with additional functionality, so if you've been using `learn`, you've been using `rspec`.
