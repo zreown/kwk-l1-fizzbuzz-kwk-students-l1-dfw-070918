@@ -401,7 +401,7 @@ Don't panic! It's the same exact failure, our old friend `NoMethodError`, as tho
 
 Let's try loading a Ruby environment from within our project directory and playing with the `#fizzbuzz` method ourselves for a second.
 
-From within `rspec-fizzbuzz-v-000`, fire up `irb`, the Interactive Ruby Shell, a real-time Ruby prompt for executing arbitrary code. For instance:
+From within `kwk-l1-fizzbuzz`, fire up `irb`, the Interactive Ruby Shell, a real-time Ruby prompt for executing arbitrary code. For instance:
 
 ```
 // ♥ irb
